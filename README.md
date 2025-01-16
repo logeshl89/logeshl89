@@ -50,7 +50,7 @@ I'm Logesh, a passionate **Electronics and Communication Engineering** student e
 ---
 
 ## 🏆 LeetCode Stats:  
-![LeetCode Stats](https://leetcard.jacoblin.cool/logeshl89?theme=dark&font=Syne)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/logesh11082004?theme=dark&font=Syne)  
 
 ---
 

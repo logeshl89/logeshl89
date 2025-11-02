@@ -47,11 +47,4 @@ I'm Logesh, a passionate **Electronics and Communication Engineering** student e
 ## 📊 GitHub Stats:  
 ![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=logeshl89&show_icons=true&theme=dark)  
 
----
-
-## 🏆 LeetCode Stats:  
-![LeetCode Stats](https://leetcard.jacoblin.cool/logesh11082004?theme=dark&font=Syne)  
-
----
-
 Let’s connect and create something amazing together! 🚀  

@@ -24,23 +24,10 @@ I'm Logesh, a passionate **Electronics and Communication Engineering** student e
 
 ## 🧑‍💻 My Tech Stack:  
 ### I Code in:  
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot)  
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)  
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)  
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwind-css)  
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)  ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwind-css)  
 
 ### IDEs and Tools:  
-![WebStorm](https://img.shields.io/badge/-WebStorm-000?style=flat&logo=webstorm)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=pycharm)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellij-idea)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual-studio-code)  
+![WebStorm](https://img.shields.io/badge/-WebStorm-000?style=flat&logo=webstorm)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=pycharm) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual-studio-code)  
 
 ---
 

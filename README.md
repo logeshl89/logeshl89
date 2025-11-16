@@ -1,7 +1,7 @@
 # Hi there 👋  
 I'm Logesh, a passionate **Electronics and Communication Engineering** student exploring the world of **technology, drones, web development, and AI**.  
 
----
+
 
 ## 🛠 What I'm up to:  
 - 🔭 **Building:** Innovative drones, IoT-based devices, and scalable web applications.  
@@ -11,7 +11,7 @@ I'm Logesh, a passionate **Electronics and Communication Engineering** student e
 - 📫 **Reach me at:** [logesh11082004@gmail.com](mailto:logesh11082004@gmail.com).  
 - ⚡ **Fun fact:** I enjoy blending creativity with technology to solve real-world problems!  
 
----
+
 
 ## 💻 Workspace Specs:  
 - **OS:** Windows/Linux  
@@ -20,7 +20,7 @@ I'm Logesh, a passionate **Electronics and Communication Engineering** student e
 - **Editor:** VS Code, IntelliJ IDEA, PyCharm, WebStorm  
 - **Tools:** Mission Planner, Simulink, BiBox Tern  
 
----
+
 
 ## 🧑‍💻 My Tech Stack:  
 ### I Code in:  
@@ -29,7 +29,7 @@ I'm Logesh, a passionate **Electronics and Communication Engineering** student e
 ### IDEs and Tools:  
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?style=flat&logo=webstorm)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=pycharm) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual-studio-code)  
 
----
+
 
 ## 📊 GitHub Stats:  
 ![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=logeshl89&show_icons=true&theme=dark)  

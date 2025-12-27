@@ -1,37 +1,128 @@
-# Hi there 👋  
-I'm Logesh, a passionate **Electronics and Communication Engineering** student exploring the world of **technology, drones, web development, and AI**.  
+Hi there 👋
 
+I'm Logesh, a passionate Embedded Systems & Electronics Engineer with a strong interest in bare-metal programming, RTOS, drones, IoT, and hardware–software co-design.
 
+I enjoy working close to the hardware—writing efficient C code, understanding registers, debugging peripherals, and building reliable embedded products for real-world applications.
 
-## 🛠 What I'm up to:  
-- 🔭 **Building:** Innovative drones, IoT-based devices, and scalable web applications.  
-- 🌱 **Learning:** Advanced DSA, Java Spring Boot, and AI/ML frameworks.  
-- 🤝 **Collaborating on:** Projects related to Web Development, Embedded Systems, IoT, and Machine Learning.  
-- 💬 **Ask me about:** Drone tech, IoT, Java Spring Boot, React, and system design.  
-- 📫 **Reach me at:** [logesh11082004@gmail.com](mailto:logesh11082004@gmail.com).  
-- ⚡ **Fun fact:** I enjoy blending creativity with technology to solve real-world problems!  
+🛠 What I'm up to
 
+🔭 Building:
 
+Embedded firmware for STM32, ESP32, Arduino, Raspberry Pi
 
-## 💻 Workspace Specs:  
-- **OS:** Windows/Linux  
-- **Processor:** Intel Core i5/i7  
-- **RAM:** 16GB  
-- **Editor:** VS Code, IntelliJ IDEA, PyCharm, WebStorm  
-- **Tools:** Mission Planner, Simulink, BiBox Tern  
+Drone systems, custom flight controllers, telemetry & communication stacks
 
+IoT devices with sensors, actuators, and cloud connectivity
 
+🌱 Learning:
 
-## 🧑‍💻 My Tech Stack:  
-### I Code in:  
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)  ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwind-css)  
+Bare-metal programming & register-level coding
 
-### IDEs and Tools:  
-![WebStorm](https://img.shields.io/badge/-WebStorm-000?style=flat&logo=webstorm)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=pycharm) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual-studio-code)  
+FreeRTOS, task scheduling, ISRs, and synchronization
 
+Embedded Linux, boot process, device drivers (basics)
 
+Hardware debugging using logic analyzers & debuggers
 
-## 📊 GitHub Stats:  
-![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=logeshl89&show_icons=true&theme=dark)  
+🤝 Collaborating on:
 
-Let’s connect and create something amazing together! 🚀  
+Embedded firmware projects
+
+IoT & edge-AI solutions
+
+Drone, robotics, and automation systems
+
+💬 Ask me about:
+
+Embedded C programming
+
+STM32 / ESP32 firmware
+
+GPIO, ADC, UART, SPI, I2C, CAN
+
+RTOS concepts, interrupts, timers
+
+Drone electronics & system integration
+
+📫 Reach me at:
+📧 logesh11082004@gmail.com
+
+⚡ Fun fact:
+I love debugging hardware issues more than writing the first version of code 😄
+
+💻 Embedded Workspace
+
+OS: Windows & Linux
+
+Processor: Intel Core i5 / i7
+
+RAM: 16GB
+
+Editors & IDEs:
+
+VS Code
+
+STM32CubeIDE
+
+Arduino IDE
+
+IntelliJ IDEA (for tooling & backend support)
+
+Tools & Platforms:
+
+Mission Planner
+
+Simulink
+
+Logic Analyzer
+
+USB-UART, JTAG/SWD debuggers
+
+🧑‍💻 Embedded Tech Stack
+Languages
+
+C (Embedded / Bare-Metal)
+
+C++ (Basics)
+
+Python (Testing, scripting, automation)
+
+Microcontrollers & Boards
+
+STM32 (F4 / H7 series)
+
+ESP32 / ESP8266
+
+Arduino (Nano, Uno)
+
+Raspberry Pi
+
+Embedded Concepts
+
+Bare-metal firmware
+
+Register-level programming
+
+Interrupts (ISR)
+
+Timers & PWM
+
+ADC, DAC
+
+UART, SPI, I2C, CAN
+
+DMA
+
+Power management
+
+Boot sequence
+
+RTOS & Systems
+
+FreeRTOS
+
+Task scheduling
+
+Queues, Semaphores, Mutex
+
+Embedded Linux (basics)

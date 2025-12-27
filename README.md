@@ -1,128 +1,99 @@
-Hi there 👋
+# 👋 Hi there, I'm Logesh
 
-I'm Logesh, a passionate Embedded Systems & Electronics Engineer with a strong interest in bare-metal programming, RTOS, drones, IoT, and hardware–software co-design.
+I'm an **Embedded Systems Developer & Electronics Engineer** passionate about  
+**bare-metal programming, RTOS, drones, IoT, and low-level hardware–software integration**.
 
-I enjoy working close to the hardware—writing efficient C code, understanding registers, debugging peripherals, and building reliable embedded products for real-world applications.
+I enjoy working close to the hardware—writing efficient Embedded C code, understanding registers,
+debugging peripherals, and building reliable real-world embedded systems.
 
-🛠 What I'm up to
+---
 
-🔭 Building:
+## 🛠 What I'm Working On
+- 🔭 Building **embedded firmware** for STM32, ESP32, Arduino, and Raspberry Pi  
+- 🚁 Developing **drone systems**, telemetry, and flight-controller logic  
+- 🌐 Creating **IoT devices** with sensors, actuators, and cloud connectivity  
+- ⚙️ Writing **register-level & bare-metal code**  
+- 🧵 Exploring **FreeRTOS**, task scheduling, ISRs, and synchronization  
 
-Embedded firmware for STM32, ESP32, Arduino, Raspberry Pi
+---
 
-Drone systems, custom flight controllers, telemetry & communication stacks
+## 🌱 Currently Learning
+- Advanced **Embedded C & memory mapping**
+- **FreeRTOS internals** (tasks, queues, semaphores)
+- **Embedded Linux basics**
+- Low-level debugging (JTAG / SWD, logic analyzer)
+- Power management & hardware optimization
 
-IoT devices with sensors, actuators, and cloud connectivity
+---
 
-🌱 Learning:
+## 💬 Ask Me About
+- Embedded C programming  
+- STM32 / ESP32 firmware  
+- GPIO, ADC, UART, SPI, I2C, CAN  
+- Timers, PWM, Interrupts (ISR)  
+- Bare-metal vs RTOS design  
+- Drone electronics & system integration  
 
-Bare-metal programming & register-level coding
+---
 
-FreeRTOS, task scheduling, ISRs, and synchronization
+## 📫 Contact Me
+📧 **Email:** [logesh11082004@gmail.com](mailto:logesh11082004@gmail.com)
 
-Embedded Linux, boot process, device drivers (basics)
+---
 
-Hardware debugging using logic analyzers & debuggers
+## 💻 Embedded Workspace
+- **OS:** Windows & Linux  
+- **CPU:** Intel Core i5 / i7  
+- **RAM:** 16GB  
+- **IDEs & Editors:**  
+  - VS Code  
+  - STM32CubeIDE  
+  - Arduino IDE  
 
-🤝 Collaborating on:
+- **Tools:**  
+  - Mission Planner  
+  - Simulink  
+  - Logic Analyzer  
+  - USB-UART, JTAG/SWD Debuggers  
 
-Embedded firmware projects
+---
 
-IoT & edge-AI solutions
+## 🧑‍💻 Tech Stack
 
-Drone, robotics, and automation systems
+### Languages
+- **C (Embedded / Bare-Metal)**
+- C++ (Basics)
+- Python (Testing & scripting)
 
-💬 Ask me about:
+### Microcontrollers & Boards
+- STM32 (F4 / H7)
+- ESP32 / ESP8266
+- Arduino (Nano, Uno)
+- Raspberry Pi
 
-Embedded C programming
+### Embedded Concepts
+- Bare-metal firmware
+- Register-level programming
+- Interrupts (ISR)
+- Timers & PWM
+- ADC / DAC
+- UART, SPI, I2C, CAN
+- DMA
+- Boot sequence
+- Power management
 
-STM32 / ESP32 firmware
+### RTOS & Systems
+- FreeRTOS
+- Tasks & scheduling
+- Queues, Semaphores, Mutex
+- Embedded Linux (basics)
 
-GPIO, ADC, UART, SPI, I2C, CAN
+---
 
-RTOS concepts, interrupts, timers
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=logeshl89&show_icons=true&theme=dark)
 
-Drone electronics & system integration
+---
 
-📫 Reach me at:
-📧 logesh11082004@gmail.com
-
-⚡ Fun fact:
-I love debugging hardware issues more than writing the first version of code 😄
-
-💻 Embedded Workspace
-
-OS: Windows & Linux
-
-Processor: Intel Core i5 / i7
-
-RAM: 16GB
-
-Editors & IDEs:
-
-VS Code
-
-STM32CubeIDE
-
-Arduino IDE
-
-IntelliJ IDEA (for tooling & backend support)
-
-Tools & Platforms:
-
-Mission Planner
-
-Simulink
-
-Logic Analyzer
-
-USB-UART, JTAG/SWD debuggers
-
-🧑‍💻 Embedded Tech Stack
-Languages
-
-C (Embedded / Bare-Metal)
-
-C++ (Basics)
-
-Python (Testing, scripting, automation)
-
-Microcontrollers & Boards
-
-STM32 (F4 / H7 series)
-
-ESP32 / ESP8266
-
-Arduino (Nano, Uno)
-
-Raspberry Pi
-
-Embedded Concepts
-
-Bare-metal firmware
-
-Register-level programming
-
-Interrupts (ISR)
-
-Timers & PWM
-
-ADC, DAC
-
-UART, SPI, I2C, CAN
-
-DMA
-
-Power management
-
-Boot sequence
-
-RTOS & Systems
-
-FreeRTOS
-
-Task scheduling
-
-Queues, Semaphores, Mutex
-
-Embedded Linux (basics)
+🚀 *I love building efficient embedded systems that interact with the real world.*  
+Let’s create **robust, scalable, and production-ready embedded solutions** together!
